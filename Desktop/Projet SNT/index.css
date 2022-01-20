@@ -1,5 +1,14 @@
 body{
+	background-color: mediumvioletred;
+}
+.body_index{
     background-color: mediumvioletred;
+	width: 50px;
+	height:auto;
+	background-image:url(Images/image-fond.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position: center center
 }
 h1{
     color: red;
@@ -10,6 +19,9 @@ table{
 }
 td{
     border: 1px solid black
+}
+.image fond{
+	align: center;
 }
 .jojo{
     color: pink;
@@ -24,4 +36,37 @@ td{
     left: 0px;
     color:black;
     background-color: white;
+}
+.Hero{
+    position: relative;
+    width: 118px;
+    height: 15px;
+    top: -78px;
+    left: 185px;
+    color:blue;
+}
+.Anta{
+    
+    position: relative;
+    width: 30px;
+    height: 15px;
+    top: -75px;
+    left: 165px;
+    color:yellow;
+}
+.img_jojo1{
+	width:250px;
+	height:500px
+}
+.img_jojo2{
+	width:224px;
+    height:280px
+}
+.img_haut{
+    width: 282px;
+    height: auto;
+}
+.img_jojo2{
+	width:203px;
+    height:499px
 }
