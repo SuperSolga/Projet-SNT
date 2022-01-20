@@ -3,12 +3,11 @@ body{
 }
 .body_index{
     background-color: mediumvioletred;
-	width: 50px;
-	height:auto;
 	background-image:url(Images/image-fond.jpg);
+    background-size: contain;
 	background-attachment:fixed;
 	background-repeat:no-repeat;
-	background-position: center center
+    background-position: center;
 }
 h1{
     color: red;
