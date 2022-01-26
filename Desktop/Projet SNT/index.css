@@ -57,10 +57,6 @@ td{
 	width:250px;
 	height:500px
 }
-.img_jojo2{
-	width:224px;
-    height:280px
-}
 .img_haut{
     width: 282px;
     height: auto;
@@ -68,4 +64,8 @@ td{
 .img_jojo2{
 	width:203px;
     height:499px
+}
+.img_jojo3{
+    width: 224px;
+    height: 280px;
 }
